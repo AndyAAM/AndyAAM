@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Andrea</h1>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<h1 align="center">Hi 👋, I'm Andrea</h1>
+![Andy](https://github.com/user-attachments/assets/ac9ceb51-7605-4b1e-9b42-e5fbeb97d64b)
+
+<img src="https://github.com/user-attachments/assets/ac9ceb51-7605-4b1e-9b42-e5fbeb97d64bb.png">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
