@@ -2,14 +2,13 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <img src="https://github.com/AndyAAM/AndyAAM/blob/856b7c191703d0ee8317a4416e2d0f05530c334b/Andy.png">
 
-### 👨🏻‍💻 &nbsp;About Me
-
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to aldanamoctezuma@gmail.com! I'll try to respond as soon as I can.\
+#  👨🏻‍💻 About Me
+👨‍💻 &nbsp;I previously worked at a Digital Marketing agency in the Web Development area, specializing in creating sites with WordPress and more complex developments with custom code.\
+💡 &nbsp;I am passionate about exploring new technologies and creating innovative web solutions. I am a perfectionist with the small details and colors in the Frontend, always seeking the best visual experience.\
+🎓 &nbsp;I have a degree in Computer Systems Engineering and I continuously strive to excel in my field.\
+🌱 &nbsp;I am on track to deepen my knowledge in emerging technologies and new trends in web development.\
+🎨 &nbsp; In my free time, I enjoy listening to music and painting, activities that inspire and complement my creativity at work.\
+💬 &nbsp;Feel free to reach out to aldanamoctezuma@gmail.com! I'll try to respond as soon as I can.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -25,7 +24,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Version Controll & Tools 
+### &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
