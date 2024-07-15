@@ -36,9 +36,23 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AndyAAM&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndyAAM&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyAAM&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=AndyAAM&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AndyAAM&theme=great-gatsby&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyAAM&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  
+  </td>
+</tr>
+</table>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AndyAAM&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4)
