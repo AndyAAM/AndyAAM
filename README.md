@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-![Andy](https://github.com/user-attachments/assets/ac9ceb51-7605-4b1e-9b42-e5fbeb97d64b)
-
-<img src="https://github.com/user-attachments/assets/ac9ceb51-7605-4b1e-9b42-e5fbeb97d64bb.png">
+<img src="https://github.com/AndyAAM/AndyAAM/blob/856b7c191703d0ee8317a4416e2d0f05530c334b/Andy.png">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
