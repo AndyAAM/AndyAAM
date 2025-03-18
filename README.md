@@ -12,6 +12,73 @@
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+**Portafolio de Evidencias**
+
+# **Andrea Aldana Moctezuma**  
+
+*Desarrolladora Web | Especialista en WordPress y PHP*
+
+---
+
+## **Sobre Mí**
+
+Soy Ingeniera en Sistemas Computacionales con especialización en desarrollo de sitios web. Mi experiencia incluye la creación y optimización de plataformas digitales con **WordPress y PHP**, además de estrategias de **marketing digital** para mejorar la conversión y visibilidad online. Mi enfoque está en el desarrollo funcional, la estética visual y la experiencia del usuario.
+
+---
+
+## **Experiencia Profesional**
+
+### **4to Creativo – Desarrollo Web con WordPress**  
+
+📍 *Pachuca, Hgo | Enero 2024 - Mayo 2024*
+
+Durante mi residencia profesional en **4to Creativo**, trabajé en la **Área de Páginas Web**, donde participé en la construcción y personalización de sitios web con **WordPress**. Mis responsabilidades incluyeron:
+
+✅ Creación y personalización de sitios web adaptados a los requerimientos de clientes.  
+
+✅ Optimización de SEO y rendimiento para mejorar la visibilidad y tiempos de carga.  
+
+✅ Integración con herramientas de marketing digital y plugins especializados.  
+
+✅ Mantenimiento y actualización de sitios para asegurar su correcto funcionamiento.  
+
+✅ Colaboración con diseñadores y el equipo de marketing para garantizar coherencia visual y funcional.  
+
+🔗 **Proyectos destacados:**
+
+- [Notaría 23 Pachuca](https://notaria23pachuca.com/)
+- [Cachito Lindo y Querido](https://www.cachitolindoyquerido.com.mx/)
+- [Villa Nova](https://villanova.com.m)
+- [Ocean Cars](https://oceancars.com.mx/)
+
+---
+
+### **Desarrollo de Aplicación Web en PHP**  
+
+📍 *Proyecto en equipo | 2024*
+
+Participé en el desarrollo de una aplicación web en **PHP** junto con un equipo de tres desarrolladores. En este proyecto, trabajamos en:
+
+✅ Creación de la estructura backend con PHP y MySQL.  
+
+✅ Implementación de funcionalidades dinámicas y gestión de usuarios.  
+
+✅ Diseño responsivo y optimización del frontend con HTML, CSS y JavaScript.  
+
+✅ Pruebas y depuración para asegurar estabilidad y seguridad en la aplicación.  
+
+🔗 **Código del proyecto:** [GitHub - AndreaAAM](https://github.com/AndyAAM)
+
+---
+
+## **Habilidades y Tecnologías**
+
+- **Lenguajes de Programación:** PHP, JavaScript, Python, Java, C.  
+- **Desarrollo Web:** WordPress, HTML5, CSS3, PHP.  
+- **Herramientas:** Elementor, WooCommerce, SEO Plugins, MySQL, GitHub.  
+- **Marketing Digital:** SEO, análisis de datos y estrategias de conversión.  
+
+---
 
 ## 🛠 &nbsp;Tech Stack
 
