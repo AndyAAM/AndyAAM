@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Andrea</h1>
+<h1 align="center">Hola 👋, Soy Andrea</h1>
 <img src="https://github.com/AndyAAM/AndyAAM/blob/856b7c191703d0ee8317a4416e2d0f05530c334b/Andy.png">
 
 ---
@@ -11,8 +11,6 @@ Soy Ingeniera en Sistemas Computacionales con especialización en desarrollo de 
 ---
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-**Portafolio de Evidencias**
-
 
 ## **Experiencia Profesional**
 
