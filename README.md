@@ -34,7 +34,7 @@ Durante mi residencia profesional en **4to Creativo**, trabajé en la **Área de
 
 - [Notaría 23 Pachuca](https://notaria23pachuca.com/)
 - [Cachito Lindo y Querido](https://www.cachitolindoyquerido.com.mx/)
-- [Villa Nova](https://villanova.com.m)
+- [Villa Nova](https://villanova.com.mx/)
 - [Ocean Cars](https://oceancars.com.mx/)
 
 ---
