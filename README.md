@@ -9,7 +9,7 @@
 
 ---
 
-## **Sobre Mí**
+## 👩🏻‍💻 **Sobre Mí**
 
 Soy Ingeniera en Sistemas Computacionales especializada en desarrollo web y me interesa convertir necesidades e ideas en **soluciones digitales funcionales, atractivas y pensadas para el usuario**.
 
@@ -22,7 +22,7 @@ Busco una oportunidad donde pueda **aportar mis conocimientos, aprender de nuevo
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-## **Experiencia Profesional**
+## 💻 **Experiencia Profesional**
 
 ### **4to Creativo – Desarrollo Web con WordPress**  
 
@@ -61,15 +61,36 @@ Participé en el desarrollo de una aplicación web en **PHP** junto con un equip
 
 ✅ Pruebas y depuración para asegurar estabilidad y seguridad en la aplicación.  
 
+---
+
+## **Diseño y Prototipado Web**
+
+Además del desarrollo web, me interesa especialmente la etapa de diseño y planificación visual. Creo bocetos y propuestas de interfaces antes de llevarlas a WordPress, buscando definir la estructura, identidad visual y experiencia del usuario antes de comenzar la implementación.
+
+**🌐 Villa Nova** 2024
+Propuesta visual y adaptación en WordPress
+Propuesta visual inicial desarrollada en Canva y posteriormente implementada en WordPress. Durante el desarrollo se realizaron ajustes de color y mejoras principalmente en las secciones de Inicio e Historia, adaptando el diseño a las imágenes y contenido actualizados proporcionados para el proyecto.
+
+El sitio ha continuado incorporando pequeños cambios de contenido desde entonces, por lo que la versión actual puede presentar algunas diferencias respecto al trabajo realizado en 2024.
+🎨 [Ver boceto en Canva](https://canva.link/9o2quv9xjfmig68)
+🌐 Visitar sitio web
+
+**💭 Escuelita de Emociones**
+Proyecto independiente | Diseño y desarrollo web.
+
+Proyecto realizado en colaboración con un amigo, con la intención de desarrollar sitios web de manera independiente. Mi principal participación estuvo enfocada en la creación del diseño y propuesta visual de la página, trabajando posteriormente en su implementación.
+El proyecto fue desarrollado aproximadamente en 2024 y actualmente el sitio ya no se encuentra activo.
+🎨 [Ver boceto en Canva](https://canva.link/r7engi65wgo9cil)
+📌 **Nota: El sitio** fue un proyecto independiente realizado en 2024 y actualmente se encuentra fuera de línea.
 
 ---
 
-## **Habilidades y Tecnologías**
+## ✨ **Habilidades y Tecnologías**
 
 - **Lenguajes de Programación:** PHP, JavaScript, Python, Java, C.  
 - **Desarrollo Web:** WordPress, HTML5, CSS3, PHP.  
 - **Herramientas:** Elementor, WooCommerce, SEO Plugins, MySQL, GitHub.  
-- **Marketing Digital:** SEO, Análisis de Datos y Estrategias de Conversión.  
+- **Marketing Digital:** SEO, Análisis de Datos.  
 
 ---
 
@@ -112,14 +133,13 @@ Participé en el desarrollo de una aplicación web en **PHP** junto con un equip
 </tr>
 </table>
 
-
+<!--
 ## 🏆 Trofeos de GitHub
 ![](https://github-profile-trophy.vercel.app/?username=AndyAAM&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Repositorio con más Contribuciones
 ![](https://github-contributor-stats.vercel.app/api?username=AndyAAM&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!--
 **AndyAAM/AndyAAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
