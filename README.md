@@ -4,7 +4,7 @@
 
 ---
 
-## ** 🎥 Video de Presentación**
+## 🎥 Video de Presentación
 [Ver en YouTube](https://youtu.be/fbdzoJxy30M)
 
 ---
