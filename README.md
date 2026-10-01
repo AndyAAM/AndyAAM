@@ -92,8 +92,6 @@ sitios web de manera independiente.
 Mi participación estuvo enfocada principalmente en la **creación del diseño y la 
 propuesta visual**, trabajando posteriormente en su implementación.
 
-El proyecto fue desarrollado en 2024 y actualmente el sitio ya no se encuentra activo.
-
 🎨 **[Ver propuesta en Canva](https://canva.link/r7engi65wgo9cil)**  
 📌 *Proyecto independiente realizado en 2024 · Sitio actualmente fuera de línea.*
 
