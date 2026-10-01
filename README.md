@@ -63,25 +63,41 @@ Participé en el desarrollo de una aplicación web en **PHP** junto con un equip
 
 ---
 
-## **Diseño y Prototipado Web**
+## 🎨 Diseño y Prototipado Web
 
-Además del desarrollo web, me interesa especialmente la etapa de diseño y planificación visual. Creo bocetos y propuestas de interfaces antes de llevarlas a WordPress, buscando definir la estructura, identidad visual y experiencia del usuario antes de comenzar la implementación.
+Además del desarrollo, disfruto especialmente la etapa de **diseño y planificación visual**. 
+Creo propuestas de interfaces antes de llevarlas a WordPress, definiendo la estructura, 
+identidad visual y experiencia del usuario para posteriormente adaptarlas durante la implementación.
 
-**🌐 Villa Nova** 2024
-Propuesta visual y adaptación en WordPress
-Propuesta visual inicial desarrollada en Canva y posteriormente implementada en WordPress. Durante el desarrollo se realizaron ajustes de color y mejoras principalmente en las secciones de Inicio e Historia, adaptando el diseño a las imágenes y contenido actualizados proporcionados para el proyecto.
+### 🌐 Villa Nova
+**Propuesta visual · WordPress · 2024**
 
-El sitio ha continuado incorporando pequeños cambios de contenido desde entonces, por lo que la versión actual puede presentar algunas diferencias respecto al trabajo realizado en 2024.
-🎨 [Ver boceto en Canva](https://canva.link/9o2quv9xjfmig68)
-🌐 Visitar sitio web
+Propuesta visual inicial desarrollada en **Canva** y posteriormente implementada en 
+**WordPress**. Durante el desarrollo realicé ajustes de color y mejoras principalmente 
+en las secciones de **Inicio** e **Historia**, adaptando el diseño a las imágenes y 
+contenido actualizados proporcionados para el proyecto.
 
-**💭 Escuelita de Emociones**
-Proyecto independiente | Diseño y desarrollo web.
+> 💡 La propuesta de Canva corresponde al diseño inicial realizado en 2024, por lo que 
+> puede presentar diferencias respecto a la versión actual del sitio.
 
-Proyecto realizado en colaboración con un amigo, con la intención de desarrollar sitios web de manera independiente. Mi principal participación estuvo enfocada en la creación del diseño y propuesta visual de la página, trabajando posteriormente en su implementación.
-El proyecto fue desarrollado aproximadamente en 2024 y actualmente el sitio ya no se encuentra activo.
-🎨 [Ver boceto en Canva](https://canva.link/r7engi65wgo9cil)
-📌 **Nota: El sitio** fue un proyecto independiente realizado en 2024 y actualmente se encuentra fuera de línea.
+🎨 **[Ver propuesta en Canva](https://canva.link/9o2quv9xjfmig68)**  
+🌐 **[Visitar sitio web](https://villanova.com.mx/)**
+
+---
+
+### 💭 Escuelita de Emociones
+**Proyecto independiente · Diseño web · 2024**
+
+Proyecto realizado en colaboración con un amigo, con la intención de desarrollar 
+sitios web de manera independiente.
+
+Mi participación estuvo enfocada principalmente en la **creación del diseño y la 
+propuesta visual**, trabajando posteriormente en su implementación.
+
+El proyecto fue desarrollado en 2024 y actualmente el sitio ya no se encuentra activo.
+
+🎨 **[Ver propuesta en Canva](https://canva.link/r7engi65wgo9cil)**  
+📌 *Proyecto independiente realizado en 2024 · Sitio actualmente fuera de línea.*
 
 ---
 
