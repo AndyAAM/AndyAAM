@@ -12,8 +12,10 @@
 ## **Sobre Mí**
 
 Soy Ingeniera en Sistemas Computacionales especializada en desarrollo web y me interesa convertir necesidades e ideas en **soluciones digitales funcionales, atractivas y pensadas para el usuario**.
+
 Mi experiencia en desarrollo web y diseño me permite aportar una visión que va más allá del código: me interesa que un sitio **funcione correctamente, comunique la identidad de una empresa y ofrezca una experiencia clara y agradable a sus usuarios**.
 He trabajado con WordPress, PHP, HTML, CSS y JavaScript, además de herramientas relacionadas con SEO, marketing digital y análisis de datos.
+
 Busco una oportunidad donde pueda **aportar mis conocimientos, aprender de nuevos proyectos y seguir creciendo profesionalmente, contribuyendo con creatividad, atención al detalle y compromiso**. 🚀
 
 ---
