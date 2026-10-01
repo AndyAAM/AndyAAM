@@ -83,8 +83,6 @@ contenido actualizados proporcionados para el proyecto.
 🎨 **[Ver propuesta en Canva](https://canva.link/9o2quv9xjfmig68)**  
 🌐 **[Visitar sitio web](https://villanova.com.mx/)**
 
----
-
 ### 💭 Escuelita de Emociones
 **Proyecto independiente · Diseño web · 2024**
 
