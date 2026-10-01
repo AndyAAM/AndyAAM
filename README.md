@@ -4,9 +4,17 @@
 
 ---
 
+## ** 🎥 Video de Presentación**
+[Ver en YouTube](https://youtu.be/fbdzoJxy30M)
+
+---
+
 ## **Sobre Mí**
 
-Soy Ingeniera en Sistemas Computacionales con especialización en desarrollo de sitios web. Mi experiencia incluye la creación y optimización de plataformas digitales con **WordPress y PHP**, además de estrategias de **marketing digital** para mejorar la conversión y visibilidad online. Mi enfoque está en el desarrollo funcional, la estética visual y la experiencia del usuario.
+Soy Ingeniera en Sistemas Computacionales especializada en desarrollo web y me interesa convertir necesidades e ideas en **soluciones digitales funcionales, atractivas y pensadas para el usuario**.
+Mi experiencia en desarrollo web y diseño me permite aportar una visión que va más allá del código: me interesa que un sitio **funcione correctamente, comunique la identidad de una empresa y ofrezca una experiencia clara y agradable a sus usuarios**.
+He trabajado con WordPress, PHP, HTML, CSS y JavaScript, además de herramientas relacionadas con SEO, marketing digital y análisis de datos.
+Busco una oportunidad donde pueda **aportar mis conocimientos, aprender de nuevos proyectos y seguir creciendo profesionalmente, contribuyendo con creatividad, atención al detalle y compromiso**. 🚀
 
 ---
 
@@ -33,9 +41,7 @@ Durante mi residencia profesional en **4to Creativo**, trabajé en la **Área de
 🔗 **Proyectos destacados:**
 
 - [Notaría 23 Pachuca](https://notaria23pachuca.com/)
-- [Cachito Lindo y Querido](https://www.cachitolindoyquerido.com.mx/)
 - [Villa Nova](https://villanova.com.mx/)
-- [Ocean Cars](https://oceancars.com.mx/)
 
 ---
 
@@ -61,7 +67,7 @@ Participé en el desarrollo de una aplicación web en **PHP** junto con un equip
 - **Lenguajes de Programación:** PHP, JavaScript, Python, Java, C.  
 - **Desarrollo Web:** WordPress, HTML5, CSS3, PHP.  
 - **Herramientas:** Elementor, WooCommerce, SEO Plugins, MySQL, GitHub.  
-- **Marketing Digital:** SEO, análisis de datos y estrategias de conversión.  
+- **Marketing Digital:** SEO, Análisis de Datos y Estrategias de Conversión.  
 
 ---
 
